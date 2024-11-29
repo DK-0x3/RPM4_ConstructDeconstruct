@@ -24,9 +24,4 @@ public class Product
         price = Price;
         quantity = Quantity;
     }
-
-    public override string ToString()
-    {
-        return $"{Name} — {Price:C2} ({Quantity} шт.)";
-    }
 }

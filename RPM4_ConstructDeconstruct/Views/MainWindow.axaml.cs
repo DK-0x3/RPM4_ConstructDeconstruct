@@ -1,7 +1,9 @@
 using System;
 using System.Collections.ObjectModel;
 using Avalonia.Controls;
+using Avalonia.Controls.Converters;
 using Avalonia.Interactivity;
+using Avalonia.Media;
 using RPM4_ConstructDeconstruct.Models;
 
 namespace RPM4_ConstructDeconstruct.Views;
